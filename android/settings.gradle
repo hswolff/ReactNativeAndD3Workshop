@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeAndD3Workshop'
+
+include ':app'
